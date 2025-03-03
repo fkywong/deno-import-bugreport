@@ -19,7 +19,7 @@ packages.
     # 
     # ok | 1 passed | 0 failed (0ms)
     ```
-* deno v2.2.2 ❌:  
+* deno v2.1.5 thru v2.2.2 ❌:  
     ```sh
     $ deno --version                                                          
     # deno 2.2.2 (stable, release, aarch64-apple-darwin)
